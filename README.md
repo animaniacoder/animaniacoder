@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @animaniacoder
+- 👋 Hi, I’m @SixtyThree
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord- animania.1#7777
+- 📫 How to reach me discord- (Rori)SixtyThree#4965
 
 <!---
-animaniacoder/animaniacoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
